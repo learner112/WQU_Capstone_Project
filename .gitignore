@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+.vscode/settings.json
+.DS_Store
+*.log
+dist/
+build/
+*.egg-info/
